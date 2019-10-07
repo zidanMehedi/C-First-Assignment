@@ -10,7 +10,7 @@ namespace AssignmentOne
     {
         static void Main(string[] args)
         {
-            Account account1 = new DebitAccount(1, "Shuvo", new OurDate(12, 06, 2019), 25000, "Tongi");
+            Account account1 = new DebitAccount(1, "Hridoy", new OurDate(12, 06, 2019), 25000, "Tongi");
             Account account3 = new DebitAccount(2, "Sohan", new OurDate(13, 06, 2019), 10000, "Kuril");
             Account account2 = new CreditAccount(3, "Numan", new OurDate(18, 06, 2019), 50000, 20000);
             account1.Deposit(12000);
