@@ -1,0 +1,6 @@
+E:\CODE\Rock With C#\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+E:\CODE\Rock With C#\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojResolveAssemblyReference.cache
+E:\CODE\Rock With C#\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+E:\CODE\Rock With C#\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+E:\CODE\Rock With C#\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+E:\CODE\Rock With C#\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
